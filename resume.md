@@ -27,38 +27,29 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 1. JavaScript (ES6+, NodeJS, ReactJS)
 1. React Native (Android, iOS)
 1. GraphQL / API / GRPC
-1. Git
 1. Golang /ReasonML / Python / Rails
 1. MySQL / PostgreSQL / MongoDB
-1. Linux / FreeBSD
+1. Git / Linux / FreeBSD
 
 ------
 
 ### Experience {#experience}
---- ---
+
 #### MaiCoin
 *Software engineer __2018.05-present__*
 
   * Implement new features of hedging service by Golang. complete supporting market data from more than four crypto exchanges in two months and one private channel in one month.
   * Develop a cryptocurrency exchange app called MAX by React Native.
-  <br />
-  <img src="./images/IMG_2854.PNG" height=250 />
-  <img src="./images/IMG_2855.PNG" height=250 />
-  <img src="./images/IMG_2856.PNG" height=250 />
-  <img src="./images/IMG_2857.PNG" height=250 />
-  <img src="./images/IMG_2858.PNG" height=250 />
-  <img src="./images/IMG_2859.PNG" height=250 />
-  <img src="./images/IMG_2860.PNG" height=250 />
-  <img src="./images/IMG_2861.PNG" height=250 />
-  <img src="./images/IMG_2864.PNG" height=250 />
-  <img src="./images/IMG_2865.PNG" height=250 />
-  <img src="./images/IMG_2870.PNG" height=250 />
-  <img src="./images/IMG_2871.PNG" height=250 />
-  <img src="./images/IMG_2872.PNG" height=250 />
-  * Build a graphql server for Maicoin app.
+
+  [Android](https://play.google.com/store/apps/details?id=com.maicoin.max&hl=en_US), [App Store](https://apps.apple.com/tw/app/max-exchange-btc-eth-mith/id1370837255?l=en)
+  * Build a graphql server for Maicoin app with Apollo framework.
+
+  [Android](https://play.google.com/store/apps/details?id=com.maicoin.maicoin&hl=zh_TW), [App Store](https://apps.apple.com/tw/app/maicoin-buy-sell-bitcoin/id1439583926?l=en)
+
   * Introduce authentication and authorization with OIDC (OpenID Connect) to team.
   * Implement redesign trading page by React Native Web.
-  <img src="./images/Trading.png" height=450 />
+
+  [https://max.maicoin.com/trades/btctwd](https://max.maicoin.com/trades/btctwd)
   * Maintain rails website.
 
 ------
@@ -76,8 +67,6 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
   * Introduce ReasonML to other front-end engineers.
 <br/>
 
-------
-
 #### Watchout Co.
 *Software developer __2014.06-2015.07__*
 
@@ -85,10 +74,7 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
   * Legislative Yuan transcripts platform (http://sayit.musou.tw/).
   * Automatically stream live broadcast of Legislative Yuan to youtube.<br/>(https://github.com/yhsiang/auto-stream-to-youtube-example)
   * OAuth2 provider implementation by Node.js for membership system.
-<br/>
-<br/>
 
-------
 
 #### Ubuntu Life Co.
 *Web developer __2013.05-2014.06__*
@@ -96,30 +82,6 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
   * Develop web dashboard for IOT devices.
   * Use Angularjs for front-end.
   * Use NodeJS and MySQL for backend.
-<br/>
-<br/>
-
-------
-
-#### Recruitment Center of National Armed Forces
-*Mandatory military service __2011.11-2012.10__*
-
-  * Maintain Windows servers and network equipment like hardware firewall.<br />
-  * Automatic daily and weekly works by batch files.<br/>
-  * Work with outsourcers.
-<br/>
-<br/>
-
-------
-
-#### Computer Center of National Chiao Tung University Computer Science Department
-*Contractor __2008.08-2009.07__*
-
-  * FreeBSD / Linux and PHP experiences.
-  * Maintain NCTUCS web service.
-  * Maintain BS2 web blog.
-<br/>
-<br/>
 
 ------
 
@@ -137,17 +99,13 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 
 ### Talks {#talks}
 
-* Sayit in Taiwan @ __COSCUP 2015__
+* Build App with React Native Web @ __ReactJS Taiwan Meetup 2019.12__
 
-  https://speakerdeck.com/yhsiang/sayit-in-taiwan
+* [Sayit in Taiwan](https://speakerdeck.com/yhsiang/sayit-in-taiwan) @ __COSCUP 2015__
 
-* Webpack pack your web @ __Modernweb 2015__
+* [Webpack pack your web](https://speakerdeck.com/yhsiang/webpack-pack-your-web) @ __Modernweb 2015__
 
-  https://speakerdeck.com/yhsiang/webpack-pack-your-web
-
-* Experience in building isomorphic app @ __ReactJS Meetup__
-
-  https://speakerdeck.com/yhsiang/experience-in-building-isomorphic-app
+* [Experience in building isomorphic app](https://speakerdeck.com/yhsiang/experience-in-building-isomorphic-app) @ __ReactJS Taiwan Meetup 2014.12__
 
 ------
 
@@ -160,5 +118,3 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 ### Footer {#footer}
 
 Yuanhsiang Cheng -- lyforever62@hotmail.com -- (+886) 987-844-985
-
-------
