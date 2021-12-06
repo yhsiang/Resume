@@ -1,13 +1,11 @@
 # Yuan Hsiang Cheng
 __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
-<br/>
 
 ------
 
 ### Profile {#profile}
 
 > A dedicated professional with 5+ years in Node.js development. Specializes in front-end architecture and web development. Be familiar with modern frontend knowledge and be devoted to advanced technology.
-<br/>
 
 ------
 
@@ -18,7 +16,6 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 
 * Backend Development
   : Worked on API, GraphQL and authentication implementation with MySQL, PostgreSQL, MongoDB.
-<br/>
 
 -------
 
@@ -32,6 +29,16 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 1. Git / Linux / FreeBSD
 
 ------
+
+### Education
+
+2010-2012
+:   **Master, Computer Science**; National Cheng Chi University
+
+    *Development and application of trend metrics in dynamic social networks─a case study in government officials changes*
+
+2004-2008
+:   **Bachelor, Computer Science and Information Engineering**; National Chiao Tung University
 
 ### Experience {#experience}
 
@@ -100,6 +107,8 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 ### Talks {#talks}
 
 * Build App with React Native Web @ __ReactJS Taiwan Meetup 2019.12__
+
+* Rethink React in Elm @ __Modernweb 2016__
 
 * [Sayit in Taiwan](https://speakerdeck.com/yhsiang/sayit-in-taiwan) @ __COSCUP 2015__
 
