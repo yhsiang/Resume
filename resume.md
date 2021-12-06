@@ -1,22 +1,23 @@
-# Yuan Hsiang Cheng
-__JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
+# Yuan-Hsiang Cheng
+__Software Engineer__ lyforever62@hotmail.com (+65) 9187-2554
 
 ------
 
 ### Profile {#profile}
 
-> A dedicated professional with 7+ years in Node.js development. Be familiar with modern frontend knowledge and be devoted to advanced technology. Recently focus on micro services with Golang and Kubernetes-related technology.
+> A dedicated professional with 7+ years in software development. Be familiar with modern frontend knowledge and be devoted to advanced technology. Recently focus on micro services with Golang and Kubernetes-related technology.
 <br/>
 
 ------
 
 ### Skills {#skills}
 
+* Backend Development
+  : Developed micro services with Golang, Redis and Kubernetes. also worked on API, GraphQL and authentication implementation with MySQL, PostgreSQL, MongoDB.
+
 * Front-end Development
   : Contributed to full-stack web development projects, with an emphasis on front-end architecture. Focus on React Native and React Native Web recently.
 
-* Backend Development
-  : Developed micro services with Golang, Redis and Kubernetes. also worked on API, GraphQL and authentication implementation with MySQL, PostgreSQL, MongoDB.
 <br/>
 
 -------
@@ -43,15 +44,23 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 2004-2008
 :   **Bachelor, Computer Science and Information Engineering**; National Chiao Tung University
 
+------
+<br />
+<br />
+<br />
+<br />
 ### Experience {#experience}
 
 #### EVYD Technology
 *Frontend engineer __2021.02-present__*
+
   * Propose a migration plan from on-premise to Azure cloud.
   * Build a simple CI/CD with Gitlab and deploy applications to Kubernetes by Helm.
   * Mentor junior frontend and backend engineers.
   * Interview engineers for different positions like frontend, backend, android.
   * Maintain a mini healthcare system for Brunei clinics. (Spring Boot and Vuejs)
+
+------
 
 #### MaiCoin
 *Software engineer __2018.05-2021.01__*
@@ -93,7 +102,9 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 *Web developer __2013.05-2014.06__*
 
 ------
-
+<br />
+<br />
+<br />
 ### Volunteering {#volunteering}
 
 #### g0v.tw (Open source community)
@@ -108,9 +119,11 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 
 ### Talks {#talks}
 
-* Build App with React Native Web @ __ReactJS Taiwan Meetup 2019.12__
+* [How To Rebuild A WebSocket Service By Golang And Redis](https://speakerdeck.com/yhsiang/how-to-rebuild-a-websocket-service-by-golang-and-redis) @ __Golang Taiwan Meetup 2020.08__
 
-* Rethink React in Elm @ __Modernweb 2016__
+* [From React to React Native Web](https://speakerdeck.com/yhsiang/from-react-to-react-native-web) @ __ReactJS Taiwan Meetup 2019.12__
+
+* [Rethink React in Elm](https://speakerdeck.com/yhsiang/rethink-react-in-elm) @ __Modernweb 2016__
 
 * [Sayit in Taiwan](https://speakerdeck.com/yhsiang/sayit-in-taiwan) @ __COSCUP 2015__
 
@@ -128,4 +141,4 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 
 ### Footer {#footer}
 
-Yuanhsiang Cheng -- lyforever62@hotmail.com -- (+886) 987-844-985
+Yuan-Hsiang Cheng -- lyforever62@hotmail.com -- (+65) 9187-2554
