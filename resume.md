@@ -5,7 +5,8 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 
 ### Profile {#profile}
 
-> A dedicated professional with 5+ years in Node.js development. Specializes in front-end architecture and web development. Be familiar with modern frontend knowledge and be devoted to advanced technology.
+> A dedicated professional with 7+ years in Node.js development. Be familiar with modern frontend knowledge and be devoted to advanced technology. Recently focus on micro services with Golang and Kubernetes-related technology.
+<br/>
 
 ------
 
@@ -15,17 +16,19 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
   : Contributed to full-stack web development projects, with an emphasis on front-end architecture. Focus on React Native and React Native Web recently.
 
 * Backend Development
-  : Worked on API, GraphQL and authentication implementation with MySQL, PostgreSQL, MongoDB.
+  : Developed micro services with Golang, Redis and Kubernetes. also worked on API, GraphQL and authentication implementation with MySQL, PostgreSQL, MongoDB.
+<br/>
 
 -------
 
 ### Technical {#technical}
 
+1. Golang / ReasonML / Python / Rails
+1. Redis / RabbitMQ / MySQL / PostgreSQL / MongoDB
+1. Kubernetes / Grafana / Prometheus
 1. JavaScript (ES6+, NodeJS, ReactJS)
 1. React Native (Android, iOS)
 1. GraphQL / API / GRPC
-1. Golang /ReasonML / Python / Rails
-1. MySQL / PostgreSQL / MongoDB
 1. Git / Linux / FreeBSD
 
 ------
@@ -42,9 +45,18 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 
 ### Experience {#experience}
 
-#### MaiCoin
-*Software engineer __2018.05-present__*
+#### EVYD Technology
+*Frontend engineer __2021.02-present__*
+  * Propose a migration plan from on-premise to Azure cloud.
+  * Build a simple CI/CD with Gitlab and deploy applications to Kubernetes by Helm.
+  * Mentor junior frontend and backend engineers.
+  * Interview engineers for different positions like frontend, backend, android.
+  * Maintain a mini healthcare system for Brunei clinics. (Spring Boot and Vuejs)
 
+#### MaiCoin
+*Software engineer __2018.05-2021.01__*
+
+  * Implement a new redesign WebSocket service with Golang, Redis, RabbitMQ to decrease 70% client requests.
   * Implement new features of hedging service by Golang. complete supporting market data from more than four crypto exchanges in two months and one private channel in one month.
   * Develop a cryptocurrency exchange app called MAX by React Native.
 
@@ -77,18 +89,8 @@ __JavaScript Developer__ lyforever62@hotmail.com (+886) 987-844-985
 #### Watchout Co.
 *Software developer __2014.06-2015.07__*
 
-  * Improve the front-end development process, and transform ideas to the real application.
-  * Legislative Yuan transcripts platform (http://sayit.musou.tw/).
-  * Automatically stream live broadcast of Legislative Yuan to youtube.<br/>(https://github.com/yhsiang/auto-stream-to-youtube-example)
-  * OAuth2 provider implementation by Node.js for membership system.
-
-
 #### Ubuntu Life Co.
 *Web developer __2013.05-2014.06__*
-
-  * Develop web dashboard for IOT devices.
-  * Use Angularjs for front-end.
-  * Use NodeJS and MySQL for backend.
 
 ------
 
