@@ -5,7 +5,7 @@ __Software Engineer__ lyforever62@hotmail.com (+65) 9187-2554
 
 ### Profile {#profile}
 
-> A dedicated professional with 7+ years in software development. Be familiar with modern frontend knowledge and be devoted to advanced technology. Recently focus on micro services with Golang and Kubernetes-related technology.
+> A dedicated professional with 8+ years in software development. Be familiar with modern frontend knowledge and be devoted to advanced technology. Recently focus on micro services with Golang and Kubernetes-related technology.
 <br/>
 
 ------
@@ -58,7 +58,7 @@ __Software Engineer__ lyforever62@hotmail.com (+65) 9187-2554
   * Build a simple CI/CD with Gitlab and deploy applications to Kubernetes by Helm.
   * Mentor junior frontend and backend engineers.
   * Interview engineers for different positions like frontend, backend, android.
-  * Maintain a mini healthcare system for Brunei clinics. (Spring Boot and Vuejs)
+  * Maintain a mini healthcare system for Brunei clinics. (Spring Boot and VueJS)
 
 ------
 
@@ -90,7 +90,7 @@ __Software Engineer__ lyforever62@hotmail.com (+65) 9187-2554
   * Mentor junior front-end engineers.
   * Build a single-sign on service for authentication and authorization with our microservice infrastructure.
   * Build automation scripts for improving HR's workflow.
-  * Develop campaign dashboard which is our __mainly__ product on adversting.
+  * Develop campaign dashboard which is our __main__ product on advertising.
   * Get the best individual sharing twice.
   * Introduce ReasonML to other front-end engineers.
 <br/>
