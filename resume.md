@@ -5,8 +5,7 @@ __Software Engineer__ lyforever62@hotmail.com (+65) 9187-2554
 
 ### Profile {#profile}
 
-> A dedicated professional with 7+ years in software development. Be familiar with modern frontend knowledge and be devoted to advanced technology. Recently focus on micro services with Golang and Kubernetes-related technology.
-<br/>
+> A dedicated professional with 10+ years in software development. Be familiar with modern frontend knowledge and be devoted to advanced technology. Recently focus on micro services with Golang and Kubernetes-related technology.
 
 ------
 
@@ -18,13 +17,11 @@ __Software Engineer__ lyforever62@hotmail.com (+65) 9187-2554
 * Front-end Development
   : Contributed to full-stack web development projects, with an emphasis on front-end architecture. Focus on React Native and React Native Web recently.
 
-<br/>
-
 -------
 
 ### Technical {#technical}
 
-1. Golang / ReasonML / Python / Rails
+1. Golang / Kotlin / ReasonML / Python / Rails
 1. Redis / RabbitMQ / MySQL / PostgreSQL / MongoDB
 1. Kubernetes / Grafana / Prometheus
 1. JavaScript (ES6+, NodeJS, ReactJS)
@@ -45,14 +42,22 @@ __Software Engineer__ lyforever62@hotmail.com (+65) 9187-2554
 :   **Bachelor, Computer Science and Information Engineering**; National Chiao Tung University
 
 ------
-<br />
-<br />
-<br />
-<br />
+
 ### Experience {#experience}
 
+#### imToken
+*Senior software engineer __2022.04-present__*
+
+  * Build a microservice for minting ERC20 token with Golang and GCP Key Management.
+  * Implement new payment features like fiat gateway and verification flow by SMS and email. 
+  * add github action to support running tests and sonarqube scanning.
+  * Build MVP app from scratch for onboarding user, make a payment, top-up and withdrawal flow independently.
+  * Implement a websocket server for sending user events.
+  * Complete various devops tasks and communicate with supported devops team and supported qa team.
+  * Interview candidates for devops and qa position.
+
 #### EVYD Technology
-*Frontend engineer __2021.02-present__*
+*Frontend engineer __2021.02-2022.03__*
 
   * Propose a migration plan from on-premise to Azure cloud.
   * Build a simple CI/CD with Gitlab and deploy applications to Kubernetes by Helm.
